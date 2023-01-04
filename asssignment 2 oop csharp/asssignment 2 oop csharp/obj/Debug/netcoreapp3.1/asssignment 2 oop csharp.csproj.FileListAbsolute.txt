@@ -1,0 +1,5 @@
+C:\Users\NIPUNDE\source\repos\asssignment 2 oop csharp\asssignment 2 oop csharp\obj\Debug\netcoreapp3.1\asssignment 2 oop csharp.csproj.AssemblyReference.cache
+C:\Users\NIPUNDE\source\repos\asssignment 2 oop csharp\asssignment 2 oop csharp\obj\Debug\netcoreapp3.1\asssignment 2 oop csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIPUNDE\source\repos\asssignment 2 oop csharp\asssignment 2 oop csharp\obj\Debug\netcoreapp3.1\asssignment 2 oop csharp.AssemblyInfoInputs.cache
+C:\Users\NIPUNDE\source\repos\asssignment 2 oop csharp\asssignment 2 oop csharp\obj\Debug\netcoreapp3.1\asssignment 2 oop csharp.AssemblyInfo.cs
+C:\Users\NIPUNDE\source\repos\asssignment 2 oop csharp\asssignment 2 oop csharp\obj\Debug\netcoreapp3.1\asssignment 2 oop csharp.csproj.CoreCompileInputs.cache
