@@ -1,0 +1,14 @@
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\bin\Debug\netcoreapp3.1\Assignment_5OOP_Q6.exe
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\bin\Debug\netcoreapp3.1\Assignment_5OOP_Q6.deps.json
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\bin\Debug\netcoreapp3.1\Assignment_5OOP_Q6.runtimeconfig.json
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\bin\Debug\netcoreapp3.1\Assignment_5OOP_Q6.runtimeconfig.dev.json
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\bin\Debug\netcoreapp3.1\Assignment_5OOP_Q6.dll
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\bin\Debug\netcoreapp3.1\Assignment_5OOP_Q6.pdb
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\obj\Debug\netcoreapp3.1\Assignment_5OOP_Q6.csproj.AssemblyReference.cache
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\obj\Debug\netcoreapp3.1\Assignment_5OOP_Q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\obj\Debug\netcoreapp3.1\Assignment_5OOP_Q6.AssemblyInfoInputs.cache
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\obj\Debug\netcoreapp3.1\Assignment_5OOP_Q6.AssemblyInfo.cs
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\obj\Debug\netcoreapp3.1\Assignment_5OOP_Q6.csproj.CoreCompileInputs.cache
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\obj\Debug\netcoreapp3.1\Assignment_5OOP_Q6.dll
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\obj\Debug\netcoreapp3.1\Assignment_5OOP_Q6.pdb
+C:\Users\NIPUNDE\source\repos\Assignment_5OOP_Q6\Assignment_5OOP_Q6\obj\Debug\netcoreapp3.1\Assignment_5OOP_Q6.genruntimeconfig.cache
